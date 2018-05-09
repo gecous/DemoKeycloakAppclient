@@ -1,0 +1,178 @@
+[{"nom": "BLONDE",
+  "description": "Notes de céréales très prononcées. Sa palette aromatique est délicate et équilibrée. Avec sa robe d'un blond clair, elle est légère et fraîche.",
+  "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+  "recommandation": "Soft, maltée et sèche, l'Eurélienne Blonde peut facilement se déguster avec des plats de tous les jours, comme une quiche, ou même un tian de légumes, sans oublier les incontournables frites.",
+  "alcool": "6,5°",
+  "amertume": "0.4",
+  "categorie": "INCONTOURNABLES",
+  "medailles": [{
+    "nom": "Concours Général Agricole",
+    "titre": "Médaille d'ARGENT",
+    "localite": "Paris",
+    "annee": "2012"
+  },
+    {
+      "nom": "Concour général agricole",
+      "titre": "Médaille d'OR",
+      "localite": "Paris",
+      "annee": "2013"
+    }],
+  "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-blonde-33cl-290x541.png"
+},
+  {
+    "nom": "BRUNE",
+    "description": "Bière brune typique aux reflets acajou, caractérisée par sa force et son amertume. Généreuse par nature, ses arômes et son caractère lui viennent de l'utilisation de malts caramélisés et de malts torréfiés.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "L'Eurélienne Brune vient adoucir les mets et enrichir les plats en les rendant plus gourmands. Caramélisée, avec des notes de fruits noirs, elle s'accordera parfaitement avec une carbonade ou un bœuf bourguignon, des champignons farcis aux lardons, ou encore pour un déjeuner rapide : avec un sandwich à la viande.",
+    "alcool": "7°",
+    "amertume": "0.9",
+    "categorie": "INCONTOURNABLES",
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-brune-33cl-290x541.png"
+  },
+  {
+    "nom": "ROUSSE",
+    "description": "Notes torréfiées entre le caramel et le café, sans atténuer sa fine amertume. Issue d'un assemblage délicat de malts blonds et caramélisés.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "Avec son petit côté \"pain grillé\", l'Eurélienne Rousse sert de pain au plat. Ainsi, elle viendra compléter un poulet grillé, ou rehausser un melon/jambon. Avec son petit côté \"caramel\", elle sera parfaite avec une pizza, des saucisses ou merguez.",
+    "alcool": "6,5°",
+    "amertume": "0.6",
+    "categorie": "INCONTOURNABLES",
+    "medailles": [{
+      "nom": "Concours Général Agricole",
+      "titre": "Médaille d'ARGENT",
+      "localite": "Paris",
+      "annee": "2013"
+    },
+      {
+        "nom": "Concour général agricole",
+        "titre": "Médaille d'OR",
+        "localite": "Paris",
+        "annee": "2014"
+      }],
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-rousse-33cl-290x541.png"
+  },
+  {
+    "nom": "BLANCHE",
+    "description": "De belle notes floconnées qui procurent à cette bière une grande légèreté. Son pétillant est abondant et très fin. Naturellement trouble, cette bière est brassée avec une forte proportion de blé malté (froment) et des flocons d'avoine.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "L'Eurélienne Blanche apportera au plat une note légèrement épicée. Elle se mariera donc parfaitement bien avec une salade composée, des crudités, elle réhaussera les saveurs d'un poisson blanc avec une sauce citron, et elle étonnera avec du brie ou un bon camembert.",
+    "alcool": "5,5°",
+    "amertume": "0.3",
+    "categorie": "INCONTOURNABLES",
+    "medailles": [{
+      "nom": "Concours Général Agricole",
+      "titre": "Médaille d'ARGENT",
+      "localite": "Paris",
+      "annee": "2018"
+    },
+      {
+        "nom": "Concour général agricole",
+        "titre": "Médaille de BRONZE",
+        "localite": "Paris",
+        "annee": "2014"
+      }],
+    "image": "http://leurelienne.fr/wp-content/uploads/2018/03/2018-blanche-33cl-290x541.png"
+  },
+  {
+    "nom": "AMBRÉE MYRTE",
+    "description": "Avec une légère touche boisée, la douceur du miel lui confère un goût légèrement liquoreux, mêlé à celui du caramélisé des malts torréfiés. Bière ambrée, légère et douce.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "Avec un petit côté acidulé et une saveur délicatement boisée, l'Eurélienne Ambrée myrte remplace très bien un verre de vin de table. Les mariages heureux : un tartare de bœuf ou de canard, une tarte à la framboise ou aux fruits rouges pour accentuer, ou plus étonnant : avec un mi-cuit au chocolat.",
+    "alcool": "5°",
+    "amertume": "0.4",
+    "categorie": "ARÔMATIQUES",
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-myrte-33cl-290x541.png"
+  },
+  {
+    "nom": "FRUITS ROUGES",
+    "description": "Agrémentée par quelques notes de caramel, son caractère est légèrement fruité par les fruits rouges qui lui donnent une saveur atypique. Non sucrée et légèrement acidulée, cette bière aromatique est une blonde dorée. Elle est légère et fraîche.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "Avec ses rondeurs et une saveur dominante de fruits rouges,  elle est plus favorable sur les desserts : salade de fruits, mi-cuit chocolat... Vous pouvez également tenter une belle expérience gustative avec un hamburger : elle remplacera alors parfaitement le soda sucré.",
+    "alcool": "5,5°",
+    "amertume": "0.4",
+    "categorie": "ARÔMATIQUES",
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-fruits-rouges-33cl-290x541.png"
+  },
+  {
+    "nom": "DENT DE LION",
+    "description": "Fruitée au nez, elle est légèrement acidulée en bouche. Une bière très aromatique qui réveille les sens avec ses étonnants arômes de pissenlit et de bardane. Bière blanche douce et très rafraissante, concoctée en 2017 à l'occasion des portes-ouvertes annuelles de la brasserie de Chandres.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "Rafraichissante, fruitée et acidulée, l'Eurélienne Dent-de-Lion s'accordera avec des salades composées, des poissons grillés, et réveillera votre tarte chocolat.",
+    "alcool": "4,5°",
+    "amertume": "0.2",
+    "categorie": "ARÔMATIQUES",
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-dent-de-lion-33cl-290x541.png"
+  },
+  {
+    "nom": "TRIPLE",
+    "description": "Aux arômes frais et fleuris, sa complexité aromatique ravit les amateurs de bières traditionnelles. Puissante et ronde, c'est la bière de dégustation par excellence.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "L'Eurélienne Triple, plus consistante en bouche, s'accordera avec des plats puissants : elle pourra compléter une paëlla, ou vous surprendre avec des crevettes à l'ail ou des pétoncles. En accompagnement d'un poulet grillé, ses saveurs biscuitées prendront toutes leurs dimensions.",
+    "alcool": "8,5°",
+    "amertume": "0.25",
+    "categorie": "ATYPIQUES",
+    "medailles": [{
+      "nom": "Concours Général Agricole",
+      "titre": "Médaille d'ARGENT",
+      "localite": "Paris",
+      "annee": "2018"
+    },
+      {
+        "nom": "Concours Général Agricole",
+        "titre": "Médaille d'OR",
+        "localite": "Paris",
+        "annee": "2017"
+      }],
+    "image": "http://leurelienne.fr/wp-content/uploads/2018/03/2018-triple-33cl-290x541.png"
+  },
+  {
+    "nom": "STOUT",
+    "description": "Sa saveur est proche de celle du café torréfié. Cette bière est brassée à partir d'un moût caractérisé par sa teneur en grains hautement torréfiés.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "Par son côté légèrement grillé, l'Eurélienne Stout se mariera avec des plats puissants mais qui garderont toute leur place : du steack grillé en passant par la terrine de campagne, jusqu'à tenter l'association avec du gibier, ou même des huîtres.",
+    "alcool": "4,5°",
+    "amertume": "0.8",
+    "categorie": "ATYPIQUES",
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-stout-33cl-290x541.png"
+  },
+  {
+    "nom": "INDIA PALE ALE",
+    "description": "L'IPA (pour \"India Pale Ale\") offre de jolies notes de fruits exotiques et une amertume intense. Le houblonnage à cru (dry-hopping) fait ressortir son profil fruité.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "Les plats pimentés s'harmonisent très bien avec l'Eurélienne India Pale Ale. Ses saveurs florales et amères sont renforcées par des poissons et crustacés, et complétées par du pamplemousse.",
+    "alcool": "6°",
+    "amertume": "0.9",
+    "categorie": "ATYPIQUES",
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-ipa-33cl-290x541.png"
+  },
+  {
+    "nom": "PILS",
+    "description": "Bière de garde pur malt, c'est une bière blonde dorée de fermentation basse, finement maltée, dans la pure tradition \"Lager\".",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "L'Eurélienne Pils rime avec fraicheur et notes de céréales légèrement sucrées. D'où les accords parfaits avec des mets aux saveurs légères : sushi, poisson blanc grillé, brie…",
+    "alcool": "4,9°",
+    "amertume": "0.5",
+    "categorie": "ATYPIQUES",
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-pils-33cl-290x541.png"
+  },
+  {
+    "nom": "PRINTEMPS",
+    "description": "Avec un bel accent floral, la douceur du seigle se mêle au goût biscuité du malt aromatique. Bière ambrée légère.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible en bouteilles de 33 cl, 75 cl, en mini-fûts de 5 litres et en fûts de 20 et 30 litres.",
+    "recommandation": "L'Eurélienne de Printemps s'exprimera pleinement avec des plats plus légers : tarte de légumes accompagnée de verdure , sorbets, ou poissons grillés.",
+    "alcool": "5,5°",
+    "amertume": "0.5",
+    "categorie": "SAISONNIÈRES",
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-printemps-33cl-290x541.png"
+  },
+  {
+    "nom": "DE NOËL",
+    "description": "Sa robe ambrée dévoile en bouche des arômes de caramel et d'épices. Bière empreinte de magie et de fête, elle offre une mousse onctueuse et des senteurs parfumées.",
+    "origine": "Brassée en région Centre-Val de Loire, L’Eurélienne est une bière artisanale fabriquée de façon traditionnelle. Elle est disponible à partir du 1er novembre, en bouteilles de 33 cl, 75 cl, en cruchons de 2 litres et en fûts de 20 litres.",
+    "recommandation": "L'Eurélienne de Noël étant légèrement épicée, nous vous conseillons de l'associer à des plats puissants tels une viande rouge grillée, des truffes ou plus étonnant : avec du fromage de chèvre ou de la glace à la vanille.",
+    "alcool": "6,5°",
+    "amertume": "0.4",
+    "categorie": "SAISONNIÈRES",
+    "image": "http://leurelienne.fr/wp-content/uploads/2017/09/2-noel-33cl-290x541.png"
+  }
+]
